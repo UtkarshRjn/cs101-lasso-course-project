@@ -1,4 +1,4 @@
-This repository contains CS101 project done under `prof. Bhaskaran Raman` in 1st semester.
+This repository contains CS101 project done under `prof. Bhaskaran Raman` in the 1st semester.
 This is a `lasso` game written in C++ using `simplecpp` library (a library of IIT bombay used exclusively in CS101 course to teach C++ language and basics of coding)
 
 ## How to Run
